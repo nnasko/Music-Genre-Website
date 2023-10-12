@@ -1,0 +1,1094 @@
+{
+  "Rock": {
+    "Bohemian Rhapsody": {
+      "Artist": "Queen",
+      "Runtime": "5:55"
+    },
+    "Stairway to Heaven": {
+      "Artist": "Led Zeppelin",
+      "Runtime": "8:02"
+    },
+    "Hotel California": {
+      "Artist": "Eagles",
+      "Runtime": "6:31"
+    },
+    "Imagine": {
+      "Artist": "John Lennon",
+      "Runtime": "3:03"
+    },
+    "Smells Like Teen Spirit": {
+      "Artist": "Nirvana",
+      "Runtime": "5:01"
+    },
+    "Wonderwall": {
+      "Artist": "Oasis",
+      "Runtime": "4:18"
+    },
+    "Sweet Child o' Mine": {
+      "Artist": "Guns N' Roses",
+      "Runtime": "5:55"
+    },
+    "Back in Black": {
+      "Artist": "AC/DC",
+      "Runtime": "4:14"
+    },
+    "Livin' on a Prayer": {
+      "Artist": "Bon Jovi",
+      "Runtime": "4:10"
+    },
+    "Eye of the Tiger": {
+      "Artist": "Survivor",
+      "Runtime": "4:05"
+    }
+  },
+  "Jazz": {
+    "Take Five": {
+      "Artist": "Dave Brubeck Quartet",
+      "Runtime": "5:25"
+    },
+    "My Favorite Things": {
+      "Artist": "John Coltrane",
+      "Runtime": "13:41"
+    },
+    "So What": {
+      "Artist": "Miles Davis",
+      "Runtime": "9:25"
+    },
+    "Autumn Leaves": {
+      "Artist": "Bill Evans Trio",
+      "Runtime": "5:53"
+    },
+    "What a Wonderful World": {
+      "Artist": "Louis Armstrong",
+      "Runtime": "2:21"
+    },
+    "Blue Bossa": {
+      "Artist": "Joe Henderson",
+      "Runtime": "7:55"
+    },
+    "Don't Get Around Much Anymore": {
+      "Artist": "Duke Ellington",
+      "Runtime": "3:19"
+    },
+    "Cantaloupe Island": {
+      "Artist": "Herbie Hancock",
+      "Runtime": "5:32"
+    },
+    "Fly Me to the Moon": {
+      "Artist": "Frank Sinatra",
+      "Runtime": "2:28"
+    },
+    "Sing, Sing, Sing": {
+      "Artist": "Benny Goodman",
+      "Runtime": "8:42"
+    }
+  },
+  "EDM": {
+    "Wake Me Up": {
+      "Artist": "Avicii",
+      "Runtime": "4:09"
+    },
+    "Titanium": {
+      "Artist": "David Guetta ft. Sia",
+      "Runtime": "4:05"
+    },
+    "On The Floor": {
+      "Artist": "Jennifer Lopez ft. Pitbull",
+      "Runtime": "3:50"
+    },
+    "Animals": {
+      "Artist": "Martin Garrix",
+      "Runtime": "5:03"
+    },
+    "Lean On": {
+      "Artist": "Major Lazer & DJ Snake ft. MØ",
+      "Runtime": "2:56"
+    },
+    "Closer": {
+      "Artist": "The Chainsmokers ft. Halsey",
+      "Runtime": "4:05"
+    },
+    "Don't You Worry Child": {
+      "Artist": "Swedish House Mafia",
+      "Runtime": "3:31"
+    },
+    "Firework": {
+      "Artist": "Katy Perry",
+      "Runtime": "3:47"
+    },
+    "Scary Monsters and Nice Sprites": {
+      "Artist": "Skrillex",
+      "Runtime": "4:03"
+    },
+    "Turn Down for What": {
+      "Artist": "DJ Snake & Lil Jon",
+      "Runtime": "3:33"
+    }
+  },
+  "Dubstep": {
+    "Scary Monsters and Nice Sprites": {
+      "Artist": "Skrillex",
+      "Runtime": "4:03"
+    },
+    "Bangarang": {
+      "Artist": "Skrillex ft. Sirah",
+      "Runtime": "3:34"
+    },
+    "I Can't Stop": {
+      "Artist": "Flux Pavilion",
+      "Runtime": "5:02"
+    },
+    "Promises": {
+      "Artist": "Nero",
+      "Runtime": "4:03"
+    },
+    "Bass Cannon": {
+      "Artist": "Flux Pavilion",
+      "Runtime": "5:08"
+    },
+    "Cracks - Flux Pavilion Remix": {
+      "Artist": "Freestylers ft. Belle Humble",
+      "Runtime": "5:10"
+    },
+    "Cinema - Skrillex Remix": {
+      "Artist": "Benny Benassi ft. Gary Go",
+      "Runtime": "5:09"
+    },
+    "Ruffneck - FULL Flex": {
+      "Artist": "Skrillex",
+      "Runtime": "3:46"
+    },
+    "Clarity": {
+      "Artist": "Zedd ft. Foxes",
+      "Runtime": "4:31"
+    },
+    "Feel So Close": {
+      "Artist": "Calvin Harris",
+      "Runtime": "3:26"
+    }
+  },
+  "Techno": {
+    "Sandstorm": {
+      "Artist": "Darude",
+      "Runtime": "7:24"
+    },
+    "Insomnia": {
+      "Artist": "Faithless",
+      "Runtime": "3:35"
+    },
+    "The New World": {
+      "Artist": "Markus Schulz",
+      "Runtime": "2:48"
+    },
+    "Children": {
+      "Artist": "Robert Miles",
+      "Runtime": "7:03"
+    },
+    "Cafe del Mar": {
+      "Artist": "Energy 52",
+      "Runtime": "6:30"
+    },
+    "Blue Monday": {
+      "Artist": "New Order",
+      "Runtime": "7:30"
+    },
+    "9 PM (Till I Come)": {
+      "Artist": "ATB",
+      "Runtime": "3:18"
+    },
+    "Pump Up the Jam": {
+      "Artist": "Technotronic",
+      "Runtime": "5:19"
+    },
+    "Voodoo People": {
+      "Artist": "The Prodigy",
+      "Runtime": "6:26"
+    },
+    "Adagio for Strings": {
+      "Artist": "William Orbit",
+      "Runtime": "6:47"
+    }
+  },
+  "R&B": {
+    "Superstition": {
+      "Artist": "Stevie Wonder",
+      "Runtime": "4:26"
+    },
+    "I Will Always Love You": {
+      "Artist": "Whitney Houston",
+      "Runtime": "4:31"
+    },
+    "Let's Stay Together": {
+      "Artist": "Al Green",
+      "Runtime": "3:19"
+    },
+    "Ain't No Mountain High Enough": {
+      "Artist": "Marvin Gaye & Tammi Terrell",
+      "Runtime": "2:28"
+    },
+    "Respect": {
+      "Artist": "Aretha Franklin",
+      "Runtime": "2:28"
+    },
+    "Stand by Me": {
+      "Artist": "Ben E. King",
+      "Runtime": "2:58"
+    },
+    "Sexual Healing": {
+      "Artist": "Marvin Gaye",
+      "Runtime": "3:59"
+    },
+    "Uptown Funk": {
+      "Artist": "Mark Ronson ft. Bruno Mars",
+      "Runtime": "4:30"
+    },
+    "I Heard It Through the Grapevine": {
+      "Artist": "Marvin Gaye",
+      "Runtime": "3:16"
+    },
+    "Try a Little Tenderness": {
+      "Artist": "Otis Redding",
+      "Runtime": "3:50"
+    }
+  },
+  "Country": {
+    "Wagon Wheel": {
+      "Artist": "Old Crow Medicine Show",
+      "Runtime": "4:44"
+    },
+    "Take Me Home, Country Roads": {
+      "Artist": "John Denver",
+      "Runtime": "3:08"
+    },
+    "Friends in Low Places": {
+      "Artist": "Garth Brooks",
+      "Runtime": "4:18"
+    },
+    "Jolene": {
+      "Artist": "Dolly Parton",
+      "Runtime": "2:41"
+    },
+    "Ring of Fire": {
+      "Artist": "Johnny Cash",
+      "Runtime": "2:37"
+    },
+    "Before He Cheats": {
+      "Artist": "Carrie Underwood",
+      "Runtime": "3:19"
+    },
+    "Chicken Fried": {
+      "Artist": "Zac Brown Band",
+      "Runtime": "3:58"
+    },
+    "Breathe": {
+      "Artist": "Faith Hill",
+      "Runtime": "4:09"
+    },
+    "Live Like You Were Dying": {
+      "Artist": "Tim McGraw",
+      "Runtime": "4:58"
+    },
+    "Cruise": {
+      "Artist": "Florida Georgia Line",
+      "Runtime": "3:29"
+    }
+  },
+  "Pop": {
+    "Shape of You": {
+      "Artist": "Ed Sheeran",
+      "Runtime": "3:54"
+    },
+    "Uptown Funk": {
+      "Artist": "Mark Ronson ft. Bruno Mars",
+      "Runtime": "4:30"
+    },
+    "Someone Like You": {
+      "Artist": "Adele",
+      "Runtime": "4:45"
+    },
+    "Sorry": {
+      "Artist": "Justin Bieber",
+      "Runtime": "3:20"
+    },
+    "Bad Guy": {
+      "Artist": "Billie Eilish",
+      "Runtime": "3:14"
+    },
+    "Happy": {
+      "Artist": "Pharrell Williams",
+      "Runtime": "3:53"
+    },
+    "Blinding Lights": {
+      "Artist": "The Weeknd",
+      "Runtime": "3:20"
+    },
+    "All About That Bass": {
+      "Artist": "Meghan Trainor",
+      "Runtime": "3:10"
+    },
+    "Thinking Out Loud": {
+      "Artist": "Ed Sheeran",
+      "Runtime": "4:41"
+    },
+    "Hello": {
+      "Artist": "Adele",
+      "Runtime": "4:55"
+    }
+  },
+  "Indie Rock": {
+    "Float On": {
+      "Artist": "Modest Mouse",
+      "Runtime": "3:28"
+    },
+    "Pumped Up Kicks": {
+      "Artist": "Foster The People",
+      "Runtime": "4:00"
+    },
+    "Ho Hey": {
+      "Artist": "The Lumineers",
+      "Runtime": "2:43"
+    },
+    "Shut Up and Dance": {
+      "Artist": "WALK THE MOON",
+      "Runtime": "3:19"
+    },
+    "Dog Days Are Over": {
+      "Artist": "Florence + The Machine",
+      "Runtime": "4:13"
+    },
+    "Electric Feel": {
+      "Artist": "MGMT",
+      "Runtime": "3:50"
+    },
+    "Tongue Tied": {
+      "Artist": "Grouplove",
+      "Runtime": "3:38"
+    },
+    "Little Lion Man": {
+      "Artist": "Mumford & Sons",
+      "Runtime": "4:07"
+    },
+    "1901": {
+      "Artist": "Phoenix",
+      "Runtime": "3:14"
+    },
+    "Sweater Weather": {
+      "Artist": "The Neighbourhood",
+      "Runtime": "4:00"
+    }
+  },
+  "Electronic": {
+    "Clarity": {
+      "Artist": "Zedd ft. Foxes",
+      "Runtime": "4:31"
+    },
+    "Titanium": {
+      "Artist": "David Guetta ft. Sia",
+      "Runtime": "4:05"
+    },
+    "Animals": {
+      "Artist": "Martin Garrix",
+      "Runtime": "5:03"
+    },
+    "Lean On": {
+      "Artist": "Major Lazer & DJ Snake ft. MØ",
+      "Runtime": "2:56"
+    },
+    "Wake Me Up": {
+      "Artist": "Avicii",
+      "Runtime": "4:09"
+    },
+    "Closer": {
+      "Artist": "The Chainsmokers ft. Halsey",
+      "Runtime": "4:05"
+    },
+    "Don't You Worry Child": {
+      "Artist": "Swedish House Mafia",
+      "Runtime": "3:31"
+    },
+    "Strobe": {
+      "Artist": "Deadmau5",
+      "Runtime": "10:37"
+    },
+    "I Remember": {
+      "Artist": "Deadmau5 & Kaskade",
+      "Runtime": "9:08"
+    },
+    "Sandstorm": {
+      "Artist": "Darude",
+      "Runtime": "7:24"
+    }
+  },
+  "Drum and Bass": {
+    "Tarantula": {
+      "Artist": "Pendulum ft. Fresh, $pyda & Tenor Fly",
+      "Runtime": "5:31"
+    },
+    "Gold Dust": {
+      "Artist": "DJ Fresh",
+      "Runtime": "3:11"
+    },
+    "End Credits": {
+      "Artist": "Chase & Status ft. Plan B",
+      "Runtime": "3:18"
+    },
+    "No Problem": {
+      "Artist": "Chase & Status",
+      "Runtime": "5:04"
+    },
+    "Hurt You": {
+      "Artist": "Chase & Status ft. AlunaGeorge",
+      "Runtime": "3:28"
+    },
+    "The Qemists - Stompbox": {
+      "Artist": "The Qemists",
+      "Runtime": "4:13"
+    },
+    "Feel the Love": {
+      "Artist": "Rudimental ft. John Newman",
+      "Runtime": "4:28"
+    },
+    "Hold On": {
+      "Artist": "Rusko ft. Amber Coffman",
+      "Runtime": "4:36"
+    },
+    "Lassitude": {
+      "Artist": "DJ Fresh ft. Sigma & Koko",
+      "Runtime": "4:12"
+    },
+    "Hot Right Now": {
+      "Artist": "DJ Fresh ft. Rita Ora",
+      "Runtime": "2:58"
+    }
+  },
+  "Funk": {
+    "Super Freak": {
+      "Artist": "Rick James",
+      "Runtime": "3:25"
+    },
+    "Jungle Boogie": {
+      "Artist": "Kool & The Gang",
+      "Runtime": "3:05"
+    },
+    "Play That Funky Music": {
+      "Artist": "Wild Cherry",
+      "Runtime": "3:11"
+    },
+    "Brick House": {
+      "Artist": "Commodores",
+      "Runtime": "3:28"
+    },
+    "Give Up the Funk (Tear the Roof off the Sucker)": {
+      "Artist": "Parliament",
+      "Runtime": "5:46"
+    },
+    "Le Freak": {
+      "Artist": "Chic",
+      "Runtime": "3:35"
+    },
+    "Papa's Got a Brand New Bag": {
+      "Artist": "James Brown",
+      "Runtime": "2:38"
+    },
+    "I Want You Back": {
+      "Artist": "Jackson 5",
+      "Runtime": "2:58"
+    },
+    "Get Up (I Feel Like Being a) Sex Machine": {
+      "Artist": "James Brown",
+      "Runtime": "5:16"
+    },
+    "Dance to the Music": {
+      "Artist": "Sly & The Family Stone",
+      "Runtime": "3:00"
+    }
+  },
+  "Soul": {
+    "(Sittin' On) The Dock of the Bay": {
+      "Artist": "Otis Redding",
+      "Runtime": "2:42"
+    },
+    "Ain't No Sunshine": {
+      "Artist": "Bill Withers",
+      "Runtime": "2:05"
+    },
+    "Let's Get It On": {
+      "Artist": "Marvin Gaye",
+      "Runtime": "4:51"
+    },
+    "Respect": {
+      "Artist": "Aretha Franklin",
+      "Runtime": "2:28"
+    },
+    "Stand by Me": {
+      "Artist": "Ben E. King",
+      "Runtime": "2:58"
+    },
+    "I Got You (I Feel Good)": {
+      "Artist": "James Brown",
+      "Runtime": "2:47"
+    },
+    "Lean on Me": {
+      "Artist": "Bill Withers",
+      "Runtime": "4:18"
+    },
+    "What's Going On": {
+      "Artist": "Marvin Gaye",
+      "Runtime": "3:52"
+    },
+    "I Heard It Through the Grapevine": {
+      "Artist": "Marvin Gaye",
+      "Runtime": "3:16"
+    },
+    "My Girl": {
+      "Artist": "The Temptations",
+      "Runtime": "2:45"
+    }
+  },
+  "Gospel": {
+    "Oh Happy Day": {
+      "Artist": "Edwin Hawkins Singers",
+      "Runtime": "5:08"
+    },
+    "I Will Trust in the Lord": {
+      "Artist": "Brooklyn Tabernacle Choir",
+      "Runtime": "6:33"
+    },
+    "Total Praise": {
+      "Artist": "Richard Smallwood",
+      "Runtime": "7:26"
+    },
+    "Amazing Grace": {
+      "Artist": "Mahalia Jackson",
+      "Runtime": "5:13"
+    },
+    "I Smile": {
+      "Artist": "Kirk Franklin",
+      "Runtime": "4:57"
+    },
+    "Take Me to the King": {
+      "Artist": "Tamela Mann",
+      "Runtime": "5:04"
+    },
+    "How Great Thou Art": {
+      "Artist": "Carrie Underwood ft. Vince Gill",
+      "Runtime": "4:50"
+    },
+    "Mary, Don't You Weep": {
+      "Artist": "Aretha Franklin",
+      "Runtime": "7:16"
+    },
+    "Every Praise": {
+      "Artist": "Hezekiah Walker",
+      "Runtime": "5:29"
+    },
+    "Hallelujah": {
+      "Artist": "Leonard Cohen",
+      "Runtime": "4:38"
+    }
+  },
+  "Reggae": {
+    "No Woman, No Cry": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "7:07"
+    },
+    "One Love": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "2:50"
+    },
+    "Is This Love": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "3:52"
+    },
+    "I Shot the Sheriff": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "4:42"
+    },
+    "Buffalo Soldier": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "4:17"
+    },
+    "Get Up, Stand Up": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "3:19"
+    },
+    "Three Little Birds": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "2:58"
+    },
+    "Redemption Song": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "3:47"
+    },
+    "Stir It Up": {
+      "Artist": "Bob Marley & The Wailers",
+      "Runtime": "5:30"
+    },
+    "No Letting Go": {
+      "Artist": "Wayne Wonder",
+      "Runtime": "3:22"
+    }
+  },
+  "Metal": {
+    "Iron Man": {
+      "Artist": "Black Sabbath",
+      "Runtime": "5:55"
+    },
+    "Ace of Spades": {
+      "Artist": "Motörhead",
+      "Runtime": "2:47"
+    },
+    "Crazy Train": {
+      "Artist": "Ozzy Osbourne",
+      "Runtime": "4:51"
+    },
+    "The Trooper": {
+      "Artist": "Iron Maiden",
+      "Runtime": "4:11"
+    },
+    "Breaking the Law": {
+      "Artist": "Judas Priest",
+      "Runtime": "2:35"
+    },
+    "Number of the Beast": {
+      "Artist": "Iron Maiden",
+      "Runtime": "4:51"
+    },
+    "Paranoid": {
+      "Artist": "Black Sabbath",
+      "Runtime": "2:48"
+    },
+    "Run to the Hills": {
+      "Artist": "Iron Maiden",
+      "Runtime": "3:53"
+    },
+    "Master of Puppets": {
+      "Artist": "Metallica",
+      "Runtime": "8:35"
+    },
+    "Raining Blood": {
+      "Artist": "Slayer",
+      "Runtime": "4:14"
+    }
+  },
+  "Classical": {
+    "Symphony No. 9 \"Choral\"": {
+      "Artist": "Beethoven",
+      "Runtime": "1:06:52"
+    },
+    "Eine kleine Nachtmusik": {
+      "Artist": "Mozart",
+      "Runtime": "17:40"
+    },
+    "Clair de Lune": {
+      "Artist": "Debussy",
+      "Runtime": "5:12"
+    },
+    "The Four Seasons: Spring": {
+      "Artist": "Vivaldi",
+      "Runtime": "10:36"
+    },
+    "Moonlight Sonata": {
+      "Artist": "Beethoven",
+      "Runtime": "15:00"
+    },
+    "Carmen Suite No. 1: Les Toreadors": {
+      "Artist": "Bizet",
+      "Runtime": "2:13"
+    },
+    "Peer Gynt Suite No. 1: Morning Mood": {
+      "Artist": "Grieg",
+      "Runtime": "3:54"
+    },
+    "Ave Maria": {
+      "Artist": "Schubert",
+      "Runtime": "5:23"
+    },
+    "Canon in D": {
+      "Artist": "Pachelbel",
+      "Runtime": "5:15"
+    },
+    "Ride of the Valkyries": {
+      "Artist": "Wagner",
+      "Runtime": "5:16"
+    }
+  },
+  "Latin": {
+    "Dákiti": {
+      "Artist": "Bad Bunny & Jhay Cortez",
+      "Runtime": "3:34"
+    },
+    "Baila Baila Baila": {
+      "Artist": "Ozuna",
+      "Runtime": "2:36"
+    },
+    "Vete": {
+      "Artist": "Bad Bunny",
+      "Runtime": "3:15"
+    },
+    "Con Calma": {
+      "Artist": "Daddy Yankee ft. Snow",
+      "Runtime": "3:13"
+    },
+    "Hawái - Remix": {
+      "Artist": "Maluma & The Weeknd",
+      "Runtime": "3:20"
+    },
+    "Yo Perreo Sola": {
+      "Artist": "Bad Bunny",
+      "Runtime": "2:52"
+    },
+    "Hasta Abajo": {
+      "Artist": "Yandel",
+      "Runtime": "3:08"
+    },
+    "Te Boté": {
+      "Artist": "Nio Garcia, Casper Magico & Bad Bunny",
+      "Runtime": "6:58"
+    },
+    "Diles": {
+      "Artist": "Bad Bunny, Ozuna, Farruko, Arcangel & Ñengo Flow",
+      "Runtime": "4:32"
+    },
+    "La Modelo": {
+      "Artist": "Ozuna ft. Cardi B",
+      "Runtime": "4:16"
+    }
+  },
+  "Salsa": {
+    "Vivir Mi Vida": {
+      "Artist": "Marc Anthony",
+      "Runtime": "5:38"
+    },
+    "Valió la Pena": {
+      "Artist": "Marc Anthony",
+      "Runtime": "4:53"
+    },
+    "Cali Pachanguero": {
+      "Artist": "Grupo Niche",
+      "Runtime": "4:38"
+    },
+    "Quimbara": {
+      "Artist": "Celia Cruz & Johnny Pacheco",
+      "Runtime": "4:45"
+    },
+    "Llorarás": {
+      "Artist": "Óscar D'León",
+      "Runtime": "4:45"
+    },
+    "La Murga": {
+      "Artist": "Willie Colón",
+      "Runtime": "4:45"
+    },
+    "Periódico de Ayer": {
+      "Artist": "Héctor Lavoe",
+      "Runtime": "6:00"
+    },
+    "Bamboleo": {
+      "Artist": "Gipsy Kings",
+      "Runtime": "3:24"
+    },
+    "Aquel Lugar": {
+      "Artist": "Adolescent's Orquesta",
+      "Runtime": "5:26"
+    },
+    "Amores Como el Nuestro": {
+      "Artist": "Jerry Rivera",
+      "Runtime": "4:40"
+    }
+  },
+  "K-Pop": {
+    "Dynamite": {
+      "Artist": "BTS",
+      "Runtime": "3:19"
+    },
+    "Gangnam Style": {
+      "Artist": "PSY",
+      "Runtime": "3:39"
+    },
+    "Kill This Love": {
+      "Artist": "BLACKPINK",
+      "Runtime": "3:14"
+    },
+    "Boy With Luv": {
+      "Artist": "BTS ft. Halsey",
+      "Runtime": "3:50"
+    },
+    "How You Like That": {
+      "Artist": "BLACKPINK",
+      "Runtime": "3:01"
+    },
+    "ON": {
+      "Artist": "BTS",
+      "Runtime": "4:06"
+    },
+    "Love Scenario": {
+      "Artist": "iKON",
+      "Runtime": "3:29"
+    },
+    "IDOL": {
+      "Artist": "BTS",
+      "Runtime": "3:42"
+    },
+    "Fancy": {
+      "Artist": "TWICE",
+      "Runtime": "3:39"
+    },
+    "Ice Cream": {
+      "Artist": "BLACKPINK & Selena Gomez",
+      "Runtime": "2:55"
+    }
+  },
+  "Post-Punk": {
+    "Love Will Tear Us Apart": {
+      "Artist": "Joy Division",
+      "Runtime": "3:27"
+    },
+    "Disorder": {
+      "Artist": "Joy Division",
+      "Runtime": "3:32"
+    },
+    "She's Lost Control": {
+      "Artist": "Joy Division",
+      "Runtime": "4:55"
+    },
+    "Psycho Killer": {
+      "Artist": "Talking Heads",
+      "Runtime": "4:20"
+    },
+    "Just Like Heaven": {
+      "Artist": "The Cure",
+      "Runtime": "3:30"
+    },
+    "Blue Monday": {
+      "Artist": "New Order",
+      "Runtime": "7:30"
+    },
+    "Transmission": {
+      "Artist": "Joy Division",
+      "Runtime": "3:37"
+    },
+    "Bela Lugosi's Dead": {
+      "Artist": "Bauhaus",
+      "Runtime": "9:35"
+    },
+    "Ceremony": {
+      "Artist": "New Order",
+      "Runtime": "4:36"
+    },
+    "Atmosphere": {
+      "Artist": "Joy Division",
+      "Runtime": "4:08"
+    }
+  },
+  "Trap": {
+    "Sicko Mode": {
+      "Artist": "Travis Scott",
+      "Runtime": "5:12"
+    },
+    "Goosebumps": {
+      "Artist": "Travis Scott",
+      "Runtime": "4:04"
+    },
+    "Mask Off": {
+      "Artist": "Future",
+      "Runtime": "3:24"
+    },
+    "Lucid Dreams": {
+      "Artist": "Juice WRLD",
+      "Runtime": "4:00"
+    },
+    "Congratulations": {
+      "Artist": "Post Malone ft. Quavo",
+      "Runtime": "3:40"
+    },
+    "Rockstar": {
+      "Artist": "Post Malone ft. 21 Savage",
+      "Runtime": "3:39"
+    },
+    "XO TOUR Llif3": {
+      "Artist": "Lil Uzi Vert",
+      "Runtime": "3:02"
+    },
+    "SAD!": {
+      "Artist": "XXXTentacion",
+      "Runtime": "2:47"
+    },
+    "Ric Flair Drip": {
+      "Artist": "Offset & Metro Boomin",
+      "Runtime": "2:52"
+    },
+    "Zeze": {
+      "Artist": "Kodak Black ft. Travis Scott & Offset",
+      "Runtime": "3:48"
+    }
+  },
+  "Grunge": {
+    "Smells Like Teen Spirit": {
+      "Artist": "Nirvana",
+      "Runtime": "5:01"
+    },
+    "Black": {
+      "Artist": "Pearl Jam",
+      "Runtime": "5:44"
+    },
+    "Come As You Are": {
+      "Artist": "Nirvana",
+      "Runtime": "3:38"
+    },
+    "Heart-Shaped Box": {
+      "Artist": "Nirvana",
+      "Runtime": "4:41"
+    },
+    "Jeremy": {
+      "Artist": "Pearl Jam",
+      "Runtime": "5:18"
+    },
+    "Lithium": {
+      "Artist": "Nirvana",
+      "Runtime": "4:16"
+    },
+    "Alive": {
+      "Artist": "Pearl Jam",
+      "Runtime": "5:41"
+    },
+    "In Bloom": {
+      "Artist": "Nirvana",
+      "Runtime": "4:13"
+    },
+    "Rooster": {
+      "Artist": "Alice In Chains",
+      "Runtime": "6:15"
+    },
+    "Yellow Ledbetter": {
+      "Artist": "Pearl Jam",
+      "Runtime": "5:01"
+    }
+  },
+  "Ska": {
+    "Monkey Man": {
+      "Artist": "The Specials",
+      "Runtime": "2:47"
+    },
+    "A Message to You, Rudy": {
+      "Artist": "The Specials",
+      "Runtime": "2:53"
+    },
+    "Gangsters": {
+      "Artist": "The Specials",
+      "Runtime": "2:47"
+    },
+    "One Step Beyond": {
+      "Artist": "Madness",
+      "Runtime": "2:18"
+    },
+    "Mirror in the Bathroom": {
+      "Artist": "The English Beat",
+      "Runtime": "3:10"
+    },
+    "Ghost Town": {
+      "Artist": "The Specials",
+      "Runtime": "3:39"
+    },
+    "Too Much Too Young": {
+      "Artist": "The Special AKA",
+      "Runtime": "2:04"
+    },
+    "Lip Up Fatty": {
+      "Artist": "Bad Manners",
+      "Runtime": "2:48"
+    },
+    "Ranking Full Stop": {
+      "Artist": "The Beat",
+      "Runtime": "2:47"
+    },
+    "On My Radio": {
+      "Artist": "The Selecter",
+      "Runtime": "3:11"
+    }
+  },
+  "Emo": {
+    "Welcome to the Black Parade": {
+      "Artist": "My Chemical Romance",
+      "Runtime": "5:11"
+    },
+    "I Write Sins Not Tragedies": {
+      "Artist": "Panic! At The Disco",
+      "Runtime": "3:06"
+    },
+    "Sugar, We're Goin Down": {
+      "Artist": "Fall Out Boy",
+      "Runtime": "3:49"
+    },
+    "Helena": {
+      "Artist": "My Chemical Romance",
+      "Runtime": "3:23"
+    },
+    "The Middle": {
+      "Artist": "Jimmy Eat World",
+      "Runtime": "2:45"
+    },
+    "Cute Without the 'E' (Cut From the Team)": {
+      "Artist": "Taking Back Sunday",
+      "Runtime": "3:32"
+    },
+    "Misery Business": {
+      "Artist": "Paramore",
+      "Runtime": "3:30"
+    },
+    "Ohio Is for Lovers": {
+      "Artist": "Hawthorne Heights",
+      "Runtime": "4:06"
+    },
+    "Dear Maria, Count Me In": {
+      "Artist": "All Time Low",
+      "Runtime": "3:02"
+    },
+    "I Miss You": {
+      "Artist": "Blink-182",
+      "Runtime": "3:47"
+    }
+  },
+  "Alternative Rock": {
+    "Creep": {
+      "Artist": "Radiohead",
+      "Runtime": "3:56"
+    },
+    "Wonderwall": {
+      "Artist": "Oasis",
+      "Runtime": "4:18"
+    },
+    "Boulevard of Broken Dreams": {
+      "Artist": "Green Day",
+      "Runtime": "4:20"
+    },
+    "Clocks": {
+      "Artist": "Coldplay",
+      "Runtime": "5:07"
+    },
+    "Mr. Brightside": {
+      "Artist": "The Killers",
+      "Runtime": "3:42"
+    },
+    "Smells Like Teen Spirit": {
+      "Artist": "Nirvana",
+      "Runtime": "5:01"
+    },
+    "Don't Look Back in Anger": {
+      "Artist": "Oasis",
+      "Runtime": "4:48"
+    },
+    "Yellow": {
+      "Artist": "Coldplay",
+      "Runtime": "4:29"
+    },
+    "Use Somebody": {
+      "Artist": "Kings of Leon",
+      "Runtime": "3:51"
+    },
+    "The Scientist": {
+      "Artist": "Coldplay",
+      "Runtime": "5:09"
+    }
+  }
+}
