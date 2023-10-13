@@ -58,7 +58,9 @@
     background-color: #292929;
   }
   .fadein {
-    animation: FadeIn 3s;
+    opacity: 0;
+    animation: FadeIn 3s forwards;
+    animation-delay: 1s;
   }
   @keyframes FadeIn {
     0% { opacity: 0; }
