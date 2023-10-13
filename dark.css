@@ -1,4 +1,8 @@
 /* Utility classes */
+.result{
+  color: #007BFF;
+  font-weight: 350px;
+}
 .animate {
     animation-duration: .75s;
     animation-fill-mode: both;
