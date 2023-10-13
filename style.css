@@ -79,20 +79,19 @@ label {
   margin-bottom: 10px;
 }
 select {
-  padding: 4px;
+  padding: 10px;
   font-size: 16px;
-  border: 1px solid #fcfcfc;
+  border: 1px solid #ccc;
   border-radius: 4px;
 }
 button {
   background-color: #007BFF;
   color: #fff;
   border: none;
-  padding: 5px 10px;
+  padding: 10px 20px;
   font-size: 16px;
   border-radius: 4px;
   cursor: pointer;
-  box-shadow: 8px 2px 8px #003E8A;
 }
 button:hover {
   background-color: #0056b3;
@@ -102,12 +101,14 @@ button:active {
 }
 .base {
   color: #949292;
-  font-weight: 350;
-  font-family: 'Courier New', Courier, monospace;
+  font-weight: 350px;
 }
 .bold {
   color: #007BFF;
-  font-weight: 700;
-  font-family: 'Courier New', Courier, monospace;
-  text-shadow: 1px 1px 2px #949292;
+  text-shadow: 1px 1px #949292;
+  font-weight: 700px;
+}
+.bynas {
+  transform: translateY(-20px);
+  text-align: center;
 }
