@@ -79,12 +79,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const userTheme = localStorage.getItem("preferredTheme");
 
     // Apply the user's preferred theme or the default (light) theme
-    if (userTheme === "light") {
-        document.getElementById("stylesheet").setAttribute("href", "light.css");
+    if (userTheme === "dark") {
+        document.getElementById("stylesheet").setAttribute("href", "dark.css");
+        document.getElementById("themeToggle").checked = true;
     }
 
-    // Add a click event listener to the toggle button
-    document.getElementById("themeToggle").addEventListener("click", function () {
+    // Add an event listener for the checkbox input
+    document.getElementById("themeToggle").addEventListener("change", function () {
         // Toggle between dark and light themes
         const currentTheme = document.getElementById("stylesheet").getAttribute("href");
         if (currentTheme === "light.css") {

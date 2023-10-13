@@ -2,7 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link id="stylesheet" rel="stylesheet" href="dark.css">
+    <link id="stylesheet" rel="stylesheet" href="light.css">
+    <link rel="stylesheet" href="button-slide.css"> <!-- Add CSS for the sliding button -->
     <title>Music</title>
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
@@ -18,7 +19,6 @@
           <span class="bold">nasko</span>
         </p>
     </div>
-    <button id="themeToggle">Toggle Dark/Light Mode</button>
     <div class="container">
     <form>
       <label for="genreSelect" class="fadein"><span class ="base">select a</span><span class="bold"> genre</span></label>
@@ -30,4 +30,11 @@
   </div>
 </div>
   </body>
+  <footer>
+    <h5 class="togglemsg">Toggle Theme</h5>
+    <div class="theme-toggle">
+      <input type="checkbox" id="themeToggle" class="slider">
+      <label for="themeToggle"></label>
+  </div>
+  </footer>
 </html>

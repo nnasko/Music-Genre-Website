@@ -155,3 +155,9 @@ tr:hover {
 .result {
   transform: translateY(270px);
 }
+.togglemsg {
+  color: #7fb7f3;
+  font-weight: 700px;
+  position: fixed;
+  bottom: 20px;
+}
