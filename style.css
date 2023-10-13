@@ -68,8 +68,8 @@
   }
   form {
     text-align: center;
-    margin: 20px;
-    font-size: 15px;
+    margin: 10px;
+    font-size: 16px;
     color: #003E8A;
     transform: translateY(450px);
 }
@@ -98,4 +98,10 @@ button:hover {
 }
 button:active {
   background-color: #003E8A;
+}
+.base {
+  color: #949292;
+}
+.bold {
+  color: #007BFF;
 }
