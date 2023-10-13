@@ -9,14 +9,11 @@ console.log(data);
 
 for (let dict in data) {
     let option = document.createElement("option");
-    option.setAttribute('value', data[dict])
+    option.setAttribute('value', data[dict]);
+   // option.setAttribute('id', optionText);
 
     let optionText = document.createTextNode(dict);
     option.appendChild(optionText);
 
     genreSelect.appendChild(option);
-}
-
-function getSelectedGenre() {
-    var e = document.getElementById("genreSelect");
 }

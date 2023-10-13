@@ -10,9 +10,9 @@
     <script type="module" src="script.js"></script>
     <script type="text/javascript">
   function getSelectedGenre() {
-    var e = document.getElementById("genreSelect");
-    var value = e.value;
-    console.log(value)
+    var selectedgenreObj = document.getElementById("genreSelect")
+    var selectedGenreVal = selectedgenreObj.options[selectedgenreObj.selectedIndex]
+    console.log(selectedGenreVal.innerHTML)
 }
     </script>
     <form>
@@ -31,7 +31,7 @@
           <span class="bold">nasko</span>
         </p>
         <p> The value of the option selected is:
-          <span class="output"></span>
+          <span class="value"></span>
       </p>
     </div>
   </body>
