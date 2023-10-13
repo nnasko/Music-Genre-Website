@@ -7,6 +7,14 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
   </head>
   <body>
+    <script type="module" src="script.js"></script>
+    <script type="text/javascript">
+  function getSelectedGenre() {
+    var e = document.getElementById("genreSelect");
+    var value = e.value;
+    console.log(value)
+}
+    </script>
     <form>
       <label for="genreSelect" class="fadein"><span class ="base">select a</span><span class="bold"> genre</span></label>
       <select id="genreSelect" class="fadein">
@@ -22,7 +30,9 @@
           <span class="base">by</span>
           <span class="bold">nasko</span>
         </p>
-    <script type="module" src="script.js"></script>
+        <p> The value of the option selected is:
+          <span class="output"></span>
+      </p>
     </div>
   </body>
 </html>

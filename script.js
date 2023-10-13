@@ -1,6 +1,5 @@
 const genreSelect = document.getElementById("genreSelect");
 
-
 fetch('/Music.json')
     .then((response) => response.json())
     .then((json) => console.log(json));
@@ -16,4 +15,8 @@ for (let dict in data) {
     option.appendChild(optionText);
 
     genreSelect.appendChild(option);
+}
+
+function getSelectedGenre() {
+    var e = document.getElementById("genreSelect");
 }
