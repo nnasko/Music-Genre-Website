@@ -1,0 +1,157 @@
+/* Utility classes */
+.animate {
+    animation-duration: .75s;
+    animation-fill-mode: both;
+  }
+  
+  .animate.animate--infinite {
+    animation-iteration-count: infinite;
+  }
+  
+  .animate.animate--delay-1s {
+    animation-delay: 1s;
+  }
+  
+  .animate.animate--fast {
+    animation-duration: 0.1s;
+  }
+  
+  .animate.animate--slow {
+    animation-duration: 3s;
+  }
+  
+  /* Animations */
+  @keyframes slideInLeft {
+    from {
+      transform: translateX(-700px);
+    }
+  
+    to {
+      transform: translateX(0);
+    }
+  }
+  
+  .slideInLeft {
+    animation-name: slideInLeft;
+    animation-timing-function: ease-in;
+  }
+  
+  @keyframes slideInRight {
+    from {
+      transform: translateX(300px);
+    }
+  
+    to {
+      transform: translateX(0);
+    }
+  }
+  .title {
+    color: #007BFF;
+    font-size: 16px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    transform: translateY(250px);
+  }
+  body {
+    background-color: #292929;
+  }
+  .fadein {
+    opacity: 0;
+    animation: FadeIn 3s forwards;
+    animation-delay: 1s;
+  }
+  @keyframes FadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  form {
+    text-align: center;
+    margin: 10px;
+    font-size: 16px;
+    color: #003E8A;
+    transform: translateY(250px);
+}
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+select {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button {
+  background-color: #c0c0c0;
+  color: #1d1d1d;
+  border: none;
+  padding: 10px 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: left;
+  transform: translateY(-100px);
+}
+button:hover {
+  background-color: #0056b3;
+}
+button:active {
+  background-color: #003E8A;
+}
+.base {
+  color: #949292;
+  font-weight: 350px;
+}
+.bold {
+  color: #007BFF;
+  text-shadow: 1px 1px #949292;
+  font-weight: 700px;
+}
+.bynas {
+  transform: translateY(-20px);
+  text-align: center;
+}
+/* Apply dark and sexy styling to the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: #333; /* Dark background color */
+  color: #fff; /* Text color */
+}
+
+/* Style table headers */
+th {
+  background-color: #222; /* Slightly darker background for headers */
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 2px solid #555; /* Add a subtle border at the bottom */
+}
+
+/* Style table rows */
+tr:nth-child(even) {
+  background-color: #444; /* Darker background for even rows */
+}
+
+/* Style table cells */
+td, th {
+  padding: 10px;
+  border: 1px solid #555; /* Slightly darker border color */
+}
+
+/* Hover effect on table rows */
+tr:hover {
+  background-color: #555; /* Slightly brighter background on hover */
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.result {
+  transform: translateY(270px);
+}

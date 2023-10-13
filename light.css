@@ -55,7 +55,7 @@
     transform: translateY(250px);
   }
   body {
-    background-color: #292929;
+    background-color: #c0c0c0;
   }
   .fadein {
     opacity: 0;
@@ -70,8 +70,8 @@
     text-align: center;
     margin: 10px;
     font-size: 16px;
-    color: #003E8A;
-    transform: translateY(450px);
+    color: #7fb7f3;
+    transform: translateY(250px);
 }
 label {
   display: block;
@@ -85,30 +85,73 @@ select {
   border-radius: 4px;
 }
 button {
-  background-color: #007BFF;
+  background-color: #292929;
   color: #fff;
   border: none;
-  padding: 10px 20px;
+  padding: 10px 10px;
   font-size: 16px;
   border-radius: 4px;
   cursor: pointer;
+  text-align: left;
+  transform: translateY(-100px);
 }
 button:hover {
-  background-color: #0056b3;
+  background-color: #7fb7f3;
 }
 button:active {
   background-color: #003E8A;
 }
 .base {
-  color: #949292;
+  color: #1d1d1d;
   font-weight: 350px;
 }
 .bold {
-  color: #007BFF;
-  text-shadow: 1px 1px #949292;
+  color: #7fb7f3;
+  text-shadow: 1px 1px #1d1d1d;
   font-weight: 700px;
 }
 .bynas {
   transform: translateY(-20px);
   text-align: center;
+}
+/* Apply dark and sexy styling to the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: #e8e8e8; /* Dark background color */
+  color: #333; /* Text color */
+}
+
+/* Style table headers */
+th {
+  background-color: #cccaca; /* Slightly darker background for headers */
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 2px solid #e3e3ee; /* Add a subtle border at the bottom */
+}
+
+/* Style table rows */
+tr:nth-child(even) {
+  background-color: #cccaca; /* Darker background for even rows */
+}
+
+/* Style table cells */
+td, th {
+  padding: 10px;
+  border: 1px solid #c4c0c0; /* Slightly darker border color */
+}
+
+/* Hover effect on table rows */
+tr:hover {
+  background-color: #c4c0c0; /* Slightly brighter background on hover */
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.result {
+  transform: translateY(270px);
 }

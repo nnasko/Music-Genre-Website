@@ -2,25 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="style.css" />
+    <link id="stylesheet" rel="stylesheet" href="dark.css">
     <title>Music</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
     <script type="module" src="script.js"></script>
-    <script type="text/javascript">
-  function getSelectedGenre() {
-    var selectedgenreObj = document.getElementById("genreSelect")
-    var selectedGenreVal = selectedgenreObj.options[selectedgenreObj.selectedIndex]
-    console.log(selectedGenreVal.innerHTML)
-}
-    </script>
-    <form>
-      <label for="genreSelect" class="fadein"><span class ="base">select a</span><span class="bold"> genre</span></label>
-      <select id="genreSelect" class="fadein">
-      </select>
-      <button type="button" onclick="getSelectedGenre()" class="fadein">submit</button>
-  </form>
     <div class="title">
         <h1 class="animate slideInLeft">
           <span class="bold">Music</span>
@@ -31,5 +18,16 @@
           <span class="bold">nasko</span>
         </p>
     </div>
+    <button id="themeToggle">Toggle Dark/Light Mode</button>
+    <div class="container">
+    <form>
+      <label for="genreSelect" class="fadein"><span class ="base">select a</span><span class="bold"> genre</span></label>
+      <select id="genreSelect" class="fadein">
+      </select>
+  </form>
+  <div id="result" class="result">
+    
+  </div>
+</div>
   </body>
 </html>
