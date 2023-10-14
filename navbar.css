@@ -1,0 +1,13 @@
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.navbar a:hover {
+    text-decoration: underline;
+}

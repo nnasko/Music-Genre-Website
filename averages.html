@@ -9,35 +9,35 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
-    <nav class="navbar fadein">
+    <nav class="navbar">
       <ul>
           <li><a href="index.html">Genre Tables</a></li>
           <li><a href="averages.html">Genre Averages</a></li>
       </ul>
   </nav>
-    <script type="module" src="main.js"></script>
     <script type="module" src="themeselect.js"></script>
+    <script type="module" src="runtimes.js"></script>
     <div class="title">
-        <h1 class="animate slideInLeft">
+        <h1>
           <span class="bold">Music</span>
-          <span class="base">genres</span>
+          <span class="base">leaderboards</span>
         </h1>
-        <p class="fadein bynas">
+        <p class="bynas">
           <span class="base">by</span>
           <span class="bold">nasko</span>
         </p>
     </div>
-    <div class="container">
-    <form>
-      <label for="genreSelect" class="fadein"><span class ="base">select a</span><span class="bold"> genre</span></label>
-      <select id="genreSelect" class="fadein">
-        <option></option>
-      </select>
-  </form>
-  <div id="result" class="result">
-    
-  </div>
-</div>
+    <div class="result">
+        <div id="averageRuntimes">
+            <table>
+                <tr>
+                    <th onclick="sortTable(0)">Genre</th>
+                    <th onclick="sortTable(1)">Average Runtime (minutes)</th>
+                </tr>
+                <!-- Table rows go here -->
+            </table>
+        </div>
+    </div>
   </body>
   <footer>
     <h5 class="togglemsg">Toggle Theme</h5>
