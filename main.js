@@ -1,6 +1,6 @@
 const genreSelect = document.getElementById("genreSelect");
 
-fetch('/Music.json')
+fetch('Music.json')
     .then((response) => response.json())
     .then((data) => {
         for (let genre in data) {
@@ -24,7 +24,7 @@ genreDropdown.addEventListener("change", function () {
     var selectedGenre = genreDropdown.value;
 
     // Fetch the JSON data from "Music.json"
-    fetch("/Music.json")
+    fetch("Music.json")
         .then((response) => {
             if (response.ok) {
                 return response.json(); // Parse the JSON response
