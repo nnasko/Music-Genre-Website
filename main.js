@@ -24,7 +24,7 @@ genreDropdown.addEventListener("change", function () {
     var selectedGenre = genreDropdown.value;
 
     // Fetch the JSON data from "Music.json"
-    fetch("Music.json")
+    fetch("/Music.json")
         .then((response) => {
             if (response.ok) {
                 return response.json(); // Parse the JSON response
